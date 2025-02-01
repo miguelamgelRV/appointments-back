@@ -67,5 +67,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## ------------------------------------------------
 ## Iniciar en puerto 8003
-
 php artisan serve --host=0.0.0.0 --port=8003
